@@ -1,0 +1,42 @@
+12:07:29  INFO:    Programa iniciado
+12:07:29  INFO:    Configurando CDS
+12:08:29  INFO:    Configuración leída correctamente.
+12:09:31  DEBUG:   Cantidad de surtidores: 6
+12:09:32  DEBUG:   Cantidad de tanques: 4
+12:09:32  DEBUG:   Cantidad de productos: 8
+12:10:01  DEBUG:   Precio producto 01: 923.000
+12:10:03  DEBUG:   Precio producto 02: 828.000
+12:10:04  DEBUG:   Precio producto 03: 746.000
+12:10:06  DEBUG:   Precio producto 04: 1109.000
+12:10:08  DEBUG:   Precio producto 05: 100.000
+12:10:09  DEBUG:   Precio producto 06: 1143.000
+12:10:11  DEBUG:   Precio producto 07: 100.000
+12:10:13  DEBUG:   Precio producto 08: 980.000
+12:10:16  DEBUG:   Surtidor 0 - Manguera 0 - Producto: 4
+12:10:17  DEBUG:   Surtidor 0 - Manguera 1 - Producto: 1
+12:10:19  DEBUG:   Surtidor 0 - Manguera 2 - Producto: 6
+12:10:20  DEBUG:   Surtidor 0 - Manguera 3 - Producto: 8
+12:10:24  DEBUG:   Surtidor 1 - Manguera 0 - Producto: 4
+12:10:26  DEBUG:   Surtidor 1 - Manguera 1 - Producto: 1
+12:10:28  DEBUG:   Surtidor 1 - Manguera 2 - Producto: 6
+12:10:30  DEBUG:   Surtidor 1 - Manguera 3 - Producto: 8
+12:10:59  DEBUG:   Surtidor 2 - Manguera 0 - Producto: 4
+12:11:00  DEBUG:   Surtidor 2 - Manguera 1 - Producto: 1
+12:11:01  DEBUG:   Surtidor 2 - Manguera 2 - Producto: 6
+12:11:02  DEBUG:   Surtidor 2 - Manguera 3 - Producto: 8
+12:11:06  DEBUG:   Surtidor 3 - Manguera 0 - Producto: 4
+12:11:07  DEBUG:   Surtidor 3 - Manguera 1 - Producto: 1
+12:11:08  DEBUG:   Surtidor 3 - Manguera 2 - Producto: 6
+12:11:09  DEBUG:   Surtidor 3 - Manguera 3 - Producto: 8
+12:11:12  DEBUG:   Surtidor 4 - Manguera 0 - Producto: 4
+12:11:13  DEBUG:   Surtidor 4 - Manguera 1 - Producto: 1
+12:11:14  DEBUG:   Surtidor 4 - Manguera 2 - Producto: 6
+12:11:15  DEBUG:   Surtidor 4 - Manguera 3 - Producto: 8
+12:11:18  DEBUG:   Surtidor 5 - Manguera 0 - Producto: 4
+12:11:19  DEBUG:   Surtidor 5 - Manguera 1 - Producto: 1
+12:11:21  DEBUG:   Surtidor 5 - Manguera 2 - Producto: 6
+12:11:22  DEBUG:   Surtidor 5 - Manguera 3 - Producto: 8
+12:11:25  DEBUG:   Tanque 0 - Producto: 214
+12:11:27  DEBUG:   Tanque 1 - Producto: 216
+12:11:28  DEBUG:   Tanque 2 - Producto: 209
+12:11:29  DEBUG:   Tanque 3 - Producto: 212

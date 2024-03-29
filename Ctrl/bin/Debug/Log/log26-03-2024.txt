@@ -1,0 +1,5 @@
+02:10:49  INFO:    Programa iniciado
+02:13:36  INFO:    Configuración leída correctamente.
+02:17:44  INFO:    Programa iniciado
+02:17:56  INFO:    Programa iniciado
+02:17:56  INFO:    Configuración leída correctamente.

@@ -1,0 +1,9 @@
+C:\Users\Fde\Documents\C#\Ctrl\Ctrl\bin\Debug\Ctrl.exe.config
+C:\Users\Fde\Documents\C#\Ctrl\Ctrl\bin\Debug\Ctrl.exe
+C:\Users\Fde\Documents\C#\Ctrl\Ctrl\bin\Debug\Ctrl.pdb
+C:\Users\Fde\Documents\C#\Ctrl\Ctrl\obj\Debug\Ctrl.csproj.AssemblyReference.cache
+C:\Users\Fde\Documents\C#\Ctrl\Ctrl\obj\Debug\Ctrl.Properties.Resources.resources
+C:\Users\Fde\Documents\C#\Ctrl\Ctrl\obj\Debug\Ctrl.csproj.GenerateResource.cache
+C:\Users\Fde\Documents\C#\Ctrl\Ctrl\obj\Debug\Ctrl.csproj.CoreCompileInputs.cache
+C:\Users\Fde\Documents\C#\Ctrl\Ctrl\obj\Debug\Ctrl.exe
+C:\Users\Fde\Documents\C#\Ctrl\Ctrl\obj\Debug\Ctrl.pdb

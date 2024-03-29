@@ -1,0 +1,2 @@
+10:05:42  INFO:    Programa iniciado
+10:05:42  INFO:    Configuración leída correctamente.
